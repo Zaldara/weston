@@ -877,7 +877,6 @@
     "initialSelected": { "x": 2, "y": 1 },
     "solution": [ "l","u","l","d","u","d","r","l","d","r","u","l","r","u","r","l","r","l","d","d" ]
   },
-  [
   {
     "type": "level",
     "number": 101,
@@ -918,7 +917,6 @@
     "initialSelected": { "x": 1, "y": 0 },
     "solution": [ "l","r","l","r","l","d","d","r","u","d","u","d","u","l","u","d","u","d","u","r","d","u","r","d","l","l","u","r" ]
   }
-]
   {
     "type": "instruction",
     "title": "The End!",
