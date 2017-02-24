@@ -885,7 +885,7 @@
     "colors": ["b","w","b","w","b","w","w","w","b"],
     "initialSelected": { "x": 0, "y": 0 },
     "solution": [ "d","u","r","r","d","u","d","u","l","l","d","d","r","l","u","r","u","l","d","r" ]
-  }
+  },
   {
     "type": "instruction",
     "title": "The End!",
