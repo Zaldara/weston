@@ -1,19 +1,19 @@
 [
   {
     "type": "instruction",
-    "title": "How to play",
+    "title": "How to play:",
     "text": "This is a numbers puzzle game.\nThe aim of the game is to get each number on a 3x3 board of numbers to be exactly the same.",
     "button": "okay..."
   },
   {
     "type": "instruction",
-    "title": "How to play",
+    "title": "How to play:",
     "text": "One of the numbers is always selected. This number can be moved by using the arrow keys",
     "button": "sounds easy"
   },
   {
     "type": "instruction",
-    "title": "How to play",
+    "title": "How to play:",
     "text": "Each time you move the selector, the number you select will increase in number by one.",
     "button": "I got this!"
   },
