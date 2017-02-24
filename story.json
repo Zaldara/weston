@@ -17,6 +17,12 @@
     "text": "Each time you move the selector, the number you select will increase in number by one.",
     "button": "I got this!"
   },
+   {
+    "type": "instruction",
+    "title": "Credit",
+    "text": "Bug fixes credited to Weston S.",
+    "button": "i dont care"
+  },
   {
     "type": "level",
     "number": 1,
