@@ -35,7 +35,7 @@ var mediator = (function() {
 }());
 
 var options = {
-    fade: 300, //the time in ms for the fade
+    fade: 300, //the time in ms for the fade 
     
   
   Name: 'weston_save_data'
