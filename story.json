@@ -2,7 +2,7 @@
   {
     "type": "instruction",
     "title": "How to play",
-    "text": "Parity is a numbers puzzle game.\nThe aim of the game is to get each number on a 3x3 board of numbers to be exactly the same.",
+    "text": "This is a numbers puzzle game.\nThe aim of the game is to get each number on a 3x3 board of numbers to be exactly the same.",
     "button": "okay..."
   },
   {
@@ -15,12 +15,12 @@
     "type": "instruction",
     "title": "How to play",
     "text": "Each time you move the selector, the number you select will increase in number by one.",
-    "button": "I got this!"
+    "button": "i got this!"
   },
    {
     "type": "instruction",
     "title": "Credit",
-    "text": "Bug fixes credited to Weston S.",
+    "text": "Bug fixes & better levels credited to Weston S.",
     "button": "i dont care"
   },
   {
