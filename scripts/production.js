@@ -36,7 +36,9 @@ var mediator = (function() {
 
 var options = {
     fade: 300, //the time in ms for the fade
-    cookieName: 'parity_save_data'
+    
+  
+  Name: 'weston_save_data'
   };
 
 // Notify that the story is loaded
