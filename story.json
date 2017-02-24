@@ -878,9 +878,18 @@
     "solution": [ "l","u","l","d","u","d","r","l","d","r","u","l","r","u","r","l","r","l","d","d" ]
   },
   {
+    "type": "level",
+    "number": 101,
+    "mode": "b&w",
+    "contents": [22,16,22,15,21,17,17,18,19],
+    "colors": ["b","w","b","w","b","w","w","w","b"],
+    "initialSelected": { "x": 0, "y": 0 },
+    "solution": [ "d","u","r","r","d","u","d","u","l","l","d","d","r","l","u","r","u","l","d","r" ]
+  }
+  {
     "type": "instruction",
     "title": "The End!",
-    "text": "Yuo thought there would be a prize, but there is no prize.",
+    "text": "You thought there would be a prize, but there is no prize.",
     "button": ":("
   }
 ]
